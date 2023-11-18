@@ -1,6 +1,6 @@
 # Wordle-Solver
 
-This is another method I used to automate the process of playing the game wordle. This was used by using colour detection libraries and taking screenshots of the web page. This was before I learned how to bypass the shaddow roots on the website.
+This is another method I used to automate the process of playing the game wordle. This was used by using colour detection libraries and taking screenshots each letter after it has been input. This was before I learned how to bypass the shaddow roots on the website.
 This only uses selenium to send keys to the browser and open the page. This means that this can easly be replaced and another library can be used to "press certain keys" then theoretically this software will be undetectable for browsers.
 
 Uses libraries: Selenium, PTL, io, binascii, struct, numpy and scipy
